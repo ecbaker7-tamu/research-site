@@ -1,0 +1,17 @@
+---
+title: "Program Information"
+site: workflowr::wflow_site
+output:
+  workflowr::wflow_html:
+    toc: false
+    toc_float: true
+    toc_collapsed: false
+    theme: default
+    css: "theme3.css"
+toc_depth: 1
+number_sections: true
+editor_options:
+  chunk_output_type: console
+---
+
+This section is dedicated to the various software and pipelines I've used throughout my research projects. This is essentially a copy of the documentation I've created for the Song Lab, which will eventually be availble publicly, as well as some information on other programs I've used in other research projects.
