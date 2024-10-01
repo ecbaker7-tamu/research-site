@@ -9,7 +9,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-<center><img src="assets/home-header.png" width="3000px"></center>
+<center><img src="assets/song-header-6.png" width="3000px"></center>
 
 <br>
 
@@ -22,11 +22,6 @@ p {
 </style>
 <div class="text">
   <p>   
-    This website is dedicated to the all past research I have conducted throughout my undergraduate career at Texas A&M University, as well as examples of documentation I have created for the Song Laboratory during my employment there. Each lab I have been a part of has it's own home page, as well as pages dedicated to each project I was a part of.
-  </p>
-  
-  <p>
-  
   </p>
   
 

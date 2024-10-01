@@ -1,0 +1,55 @@
+---
+title: "Eutheria Laboratory"
+site: workflowr::wflow_site
+output:
+  workflowr::wflow_html:
+    toc: false
+editor_options:
+  chunk_output_type: console
+---
+
+<center><img src="assets/murphy-lab-header.png" width="2900px"></center>
+
+<br>
+
+<div class="img-with-text">
+<style>
+p {
+  text-indent: 2em; /* Tab set /*
+}
+</style>
+<div class="text">
+  <p>   
+
+Eutheria Laboratory is an evolutionary genomics lab run by Dr. Bill Murphy at Texas A&M University that utilizes comparative genomics to study the processes of adaptation, speciation, and diversification in mammals.
+  </p>
+  
+  <p> Over the year I spent at Dr. Murphy's lab under the instruction of Nicole Foley, I learned skills such as pseudohaploid genome assembly, basic bioinformatics analysis, and scientific communication and outreach. The projects I was a part of focused on wide-scale mammal genome analysis from an evolutionary standpoint.
+  
+
+</div>
+
+<figure>
+  <img src="assets/MammalianPhylogeny.jpg" alt="Mammalian Phylogeny">
+  <figcaption><center><font size="-1.5">Foley et al., <i>A genomic timescale for placental mammal evolution</i> 2023</fontsize></center></figcaption>
+</figure>
+</div>
+<style>
+.img-with-text {
+  display: flex;
+  align-items: flex-start;
+}
+
+.img-with-text img {
+  margin-left: 15px;
+  max-width: 560px;
+  height: auto;
+}
+
+.img-with-text .text {
+  flex: 3 0 450px;
+  display: flex;
+  flex-direction: column;
+}
+</style>
+
